@@ -32,4 +32,4 @@
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Asaduzzaman04&theme=synthwave&hide_border=true&card_width=500" alt="GitHub Streak" /></a>
 </p>
 </br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asaduzzaman&show_icons=true&locale=en" alt="asaduzzaman" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asaduzzaman04&show_icons=true&locale=en" alt="asaduzzaman04" /></p>
