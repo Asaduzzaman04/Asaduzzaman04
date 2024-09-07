@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **zamanasad0000@gmail.com**
 
-- 📄 Know about my experiences [https://i.postimg.cc/CMCBFRmg/Asaduzzaman.png](https://i.postimg.cc/CMCBFRmg/Asaduzzaman.png)
+- 📄 Know about my experiences [My Resume](https://i.postimg.cc/CMCBFRmg/Asaduzzaman.png)
 
 - ⚡ Fun fact **lazy guy**
 
