@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Bangaldesh</h3>
 </br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asaduzzaman" alt="asaduzzaman" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=asaduzzaman04&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 - 🔭 I’m currently working on [E-STORE](https://linkup-social.netlify.app/)
