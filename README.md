@@ -37,7 +37,7 @@
 <h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left">
   <a href="https://portfolio-asaduzzaman.netlify.app" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,redux,nodejs,express,mongodb,linux,docker,figma,git,bash,typescript,javascript,java,c,flutter,dart,firebase,prisma,reactnative" alt="Skills" >
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,redux,nodejs,express,vite,mongodb,linux,docker,figma,git,bash,vscode,typescript,javascript,java,c,flutter,dart,firebase,prisma,idea,npm" alt="Skills" >
   </a>
 </p>
 
